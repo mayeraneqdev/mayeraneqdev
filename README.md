@@ -3,10 +3,10 @@
 	<a href="https://www.instagram.com/mayeraneq/" target="blank"
 		><img
 			align="center"
-			src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPiD9d7LK2UK72ECs4DX5cJ1sH4x6UQBKRg&usqp=CAU"
+			src="https://media.discordapp.net/attachments/853667470996013086/857375080190312468/hot3.png?width=1202&height=676"
 			alt="kaswebsite"
-			height="100"
-			width="100"
+			height="1202"
+			width="676"
 	/></a>
 </p>
 

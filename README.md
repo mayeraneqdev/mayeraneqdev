@@ -3,7 +3,7 @@
 	<a href="https://www.instagram.com/mayeraneq/" target="blank"
 		><img
 			align="center"
-			src="https://media.discordapp.net/attachments/853667470996013086/857375607213522944/a_a6991df9592ea0e89657b74e4f3d23d7_1.gif"
+			src="https://cdn.discordapp.com/icons/853008393182773289/6206ea32fa97a5eb23a0bd8c21b1259b.webp?size=2048"
 			alt="kaswebsite"
 			height="200"
 			width="200"

@@ -22,7 +22,7 @@
 	/>
 </p>
 
-<h2 align="center">MOje statystyki</h2>
+<h2 align="center">Moje statystyki</h2>
 <p align="center">
 	<img
 		align="center"

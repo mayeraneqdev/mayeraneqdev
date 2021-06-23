@@ -35,7 +35,7 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayeraneqdev&theme=dracula">
 	<img
 		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=soham4abc&theme=onedark"
+		src="https://github-profile-trophy.vercel.app/?username=mayeraneqdev&theme=onedark"
 	/>
 </p>
 ------
